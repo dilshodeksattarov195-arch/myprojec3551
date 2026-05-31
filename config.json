@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordercerify",
+        "uuid": 6821471,
+        "checksum": "llf7b"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
